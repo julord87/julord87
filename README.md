@@ -1,4 +1,21 @@
-![CV_2024 copia](https://github.com/julord87/julord87/assets/110478048/54c6df16-a3c4-4fa8-a716-de7b34e75f32)
+# Hi, I'm <a href="https://www.linkedin.com/in/julianmzg/">Julian<a/>! 👋 </br> <b>a Frontend Developer 🤖</b>
 
+## About Me 🚀
+I was born in Montevideo, Uruguay. I'm passionate about music 🎵, sports, and programming 💻. With over a decade of experience, I've composed six musical albums and produced more than ten. As a technical event producer, I've coordinated the production of notable events, including the Buenos Aires Pride March, various festivals, programs, and TV broadcasts 📺 throughout Argentina.
 
-### Hi there 👋
+In the world of programming, I work independently, excelling in HTML, CSS, JavaScript (my favorite), React, NodeJS, SCSS, Git, and Github. I enjoy the intellectual challenge that programming presents and stand out for my creativity, teamwork, and attention to detail. Colleagues appreciate my sense of humor, empathy, and discipline.
+
+Additionally, as a recreational boxer 🥊, I find in this sport a source of energy and balance. I'm excited to continue contributing to the worlds of music and technology.
+
+Let's connect! 🚀
+
+## Technologies 🛠️
+
+- <b>Programming Languages:</b> Javascript/Typescript, HTML, CSS
+- <b>Front-end:</b> React, Next
+- <b>Back-end:</b> Node, Express
+- <b>Databases:</b> NoSQL (MongoDB, MySQL, PostgrSQL)
+- <b>Tools:</b> Axios, Redux, RTK Query, Tailwind CSS, JWT, etc.
+
+## Contact 📬
+Connect with me on [LinkedIn](https://www.linkedin.com/in/julianmzg/) or by email at julianmzg@gmail.com
