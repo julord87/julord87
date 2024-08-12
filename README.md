@@ -17,7 +17,7 @@ Let's connect! 🚀
 - <b>Front-end:</b> React, Next
 - <b>Back-end:</b> Node, Express
 - <b>Databases:</b> NoSQL (MongoDB, MySQL, PostgrSQL)
-- <b>Tools:</b> Axios, Redux, RTK Query, Tailwind CSS, JWT, etc.
+- <b>Tools:</b> Axios, Redux, RTK Query, Tailwind CSS, JWT, Prisma, AWS etc.
 
 ## Contact 📬
 Connect with me on [LinkedIn](https://www.linkedin.com/in/julianmzg/) or by email at julianmzg@gmail.com
